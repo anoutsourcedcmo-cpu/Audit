@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Audit Tool",
+  "description": "Marketing Environment Audit of your Organization to Create an Effective Marketing Strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
